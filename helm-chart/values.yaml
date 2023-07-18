@@ -1,0 +1,4 @@
+replicas: 1
+something: 1
+appName: pizzabackend
+
